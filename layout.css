@@ -1,0 +1,43 @@
+body{
+    font: "OpenDyslexic", sans-serif;
+}
+
+#Title{
+    position: fixed;
+    width: 102%;
+    height: 400px;
+    left: -5px;
+    top: -10px;
+    background-color: #db885e;
+    text-align: center;
+
+}
+#header{
+    
+    position: fixed;
+    width: 102%;
+    height: 100px;
+    left: -5px;
+    top: -5px;
+    background-color: #b56136;
+    text-align: right;
+}
+#para1{
+    font-size: 18px;
+    position: fixed;
+    width: 40%;
+    height: 100px;
+    left: 30%;
+    top: 500px;
+    text-align: left;
+}
+#para2{
+    background-color: #ebebeb;
+    font-size: 18px;
+    position: fixed;
+    width: 400px;
+    height: 100px;
+    left: 30%;
+    top: 800px;
+    text-align: left;
+}
