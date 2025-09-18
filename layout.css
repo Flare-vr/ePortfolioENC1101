@@ -1,42 +1,61 @@
+
+
 body{
     font: "OpenDyslexic", sans-serif;
+    overflow: auto;
 }
-
+*{
+    box-sizing: border-box;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: white;
+}
+img{
+    position: relative; 
+    left: 500px; 
+    top: -400px;
+    width: 400px; 
+}
 #Title{
-    position: fixed;
-    width: 102%;
+    color: white;
+    position: relative;
+    width: 101%;
     height: 400px;
-    left: -5px;
+    left: -12px;
     top: -10px;
-    background-color: #db885e;
-    text-align: center;
-
+    background-color: black;
+    display: grid;
+    place-items: center;
+    border: #ac1c1c;
+    border-style: solid;
+    border-width: 4px;
 }
+
 #header{
-    
     position: fixed;
-    width: 102%;
+    padding: 2.5em;
+    width: 80%;
     height: 100px;
-    left: -5px;
+    right: 500px;
     top: -5px;
-    background-color: #b56136;
-    text-align: right;
+    background-color: #ac1c1c;
+    text-align: left;
 }
 #para1{
     font-size: 18px;
-    position: fixed;
+    position: absolute;
     width: 40%;
-    height: 100px;
     left: 30%;
     top: 500px;
-    text-align: left;
+    text-align: center;
 }
 #para2{
-    background-color: #ebebeb;
     font-size: 18px;
-    position: fixed;
+    position: absolute;
     width: 400px;
-    height: 100px;
     left: 30%;
     top: 800px;
     text-align: left;
