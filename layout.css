@@ -15,9 +15,9 @@ a:hover{
 }
 img{
     position: relative; 
-    left: 500px; 
-    top: -400px;
-    width: 400px; 
+    left: 900px; 
+    top: -1100px;
+    width: 35%; 
 }
 #Title{
     color: white;
@@ -55,8 +55,8 @@ img{
 #para2{
     font-size: 18px;
     position: absolute;
-    width: 400px;
-    left: 30%;
+    width: 55%;
+    left: 10%;
     top: 800px;
     text-align: left;
 }
