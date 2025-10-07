@@ -15,16 +15,16 @@ a:hover{
 }
 img{
     position: relative; 
-    left: 900px; 
+    left: 850px; 
     top: -1100px;
-    width: 35%; 
+    width: 50%; 
 }
 #Title{
     color: white;
     position: relative;
-    width: 101%;
+    width: 104%;
     height: 400px;
-    left: -12px;
+    left: -2%;
     top: -10px;
     background-color: black;
     display: grid;
@@ -39,7 +39,7 @@ img{
     padding: 2.5em;
     width: 80%;
     height: 100px;
-    right: 500px;
+    left: -2%;
     top: -5px;
     background-color: #ac1c1c;
     text-align: left;
