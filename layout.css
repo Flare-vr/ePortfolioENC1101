@@ -57,6 +57,14 @@ img{
     position: absolute;
     width: 55%;
     left: 10%;
-    top: 800px;
+    top: 650px;
+    text-align: left;
+}
+#para3{
+    font-size: 18px;
+    position: absolute;
+    width: 55%;
+    left: 10%;
+    top: 1700px;
     text-align: left;
 }
